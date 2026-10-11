@@ -1,0 +1,8 @@
+{
+  "name": "genpark-mcp-tool-description-injection-and-exfiltration-scanner-skill",
+  "version": "1.0.0",
+  "description": "Scans MCP tool schemas and descriptions for prompt injection, tool shadowing, and data exfiltration vectors",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
