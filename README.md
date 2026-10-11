@@ -1,0 +1,1 @@
+# genpark-mcp-tool-description-injection-and-exfiltration-scanner-skill\n\nScans MCP tool schemas and descriptions for prompt injection, tool shadowing, and data exfiltration vectors.\n\n100% Python Standard Library implementation with zero external dependencies.
