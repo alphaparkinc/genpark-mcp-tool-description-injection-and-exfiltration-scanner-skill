@@ -4,5 +4,8 @@
   "description": "Scans MCP tool schemas and descriptions for prompt injection, tool shadowing, and data exfiltration vectors",
   "entrypoint": "client.py",
   "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
   "license": "MIT"
 }
